@@ -1,0 +1,26 @@
+.container-fluid{
+    background-color: #9bbecd;
+} 
+#navbar{
+    display: flex;
+}
+
+.k{
+    display: flex;  
+    align-items: flex-start;
+}
+
+#image{
+    padding: 5px 20px 0px 10px;
+}
+
+#cf{
+    display: flex;
+}
+
+#cfimage{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0px 5px;
+}
